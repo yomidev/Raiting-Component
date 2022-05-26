@@ -13,8 +13,8 @@ Desktop: 1440 px
 ### Screenshots
 
 ![](screenshot/code.png)
+![](screenshot/code1.png)
 ![](screenshot/code2.png)
-![](screenshot/code3.png)
 ![](screenshot/desktop.png)
 ![](screenshot/desktop_active.png)
 ![](screenshot/screen_thanks.png)
